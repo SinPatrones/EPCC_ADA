@@ -1,2 +1,5 @@
 # EPCC_ADA
-Análisis y diseño de algoritmos - UNSA - Arequipa
+Armando Hinojosa Ccama
+Análisis y diseño de algoritmos
+Universidad Nacional de San Agustín de Arequipa
+2022
